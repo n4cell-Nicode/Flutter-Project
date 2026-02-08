@@ -1,0 +1,2 @@
+# Uploaded product images are saved here when the app uses the upload API.
+# If you serve PHP from htdocs, the folder is created there (htdocs/backend/uploads/products/) instead.
